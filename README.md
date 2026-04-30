@@ -61,7 +61,7 @@ The dataset contains **3,835 records** with the following fields:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](mobile dashboard.png)
+![Dashboard](mobile%20dashboard.png)
 
 ---
 
